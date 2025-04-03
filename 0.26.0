@@ -1,4 +1,4 @@
-Requirement already satisfied: accelerate in c:\users\shouv\miniconda3\envs\legal_summarizer\lib\site-packages (1.5.2)
+Requirement already satisfied: accelerate in c:\users\shouv\miniconda3\envs\legal_summarizer\lib\site-packages (1.6.0)
 Requirement already satisfied: numpy<3.0.0,>=1.17 in c:\users\shouv\miniconda3\envs\legal_summarizer\lib\site-packages (from accelerate) (2.2.3)
 Requirement already satisfied: packaging>=20.0 in c:\users\shouv\miniconda3\envs\legal_summarizer\lib\site-packages (from accelerate) (24.2)
 Requirement already satisfied: psutil in c:\users\shouv\miniconda3\envs\legal_summarizer\lib\site-packages (from accelerate) (5.9.0)
